@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -fPIC  -Werror -DUSE_PROV_MODULE_FULL -DUSE_OPENSSL -Werror -g  -shared -Wl,-soname,libuhttp.so -o libuhttp.so CMakeFiles/uhttp.dir/src/uhttp.c.o -Wl,-rpath,/home/raj/GITBranches/Azure-c-sdk-fileupload-network-interface-fix/azure-iot-sdk-c/cmake/c-utility: ../../c-utility/libaziotsharedutil.so -lcurl -lssl -lcrypto -lpthread -lm -lrt -luuid 

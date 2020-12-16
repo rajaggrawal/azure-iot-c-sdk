@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -fPIC  -Werror -DUSE_PROV_MODULE_FULL -DUSE_PROV_MODULE -g  -shared -Wl,-soname,libparson.so -o libparson.so CMakeFiles/parson.dir/deps/parson/parson.c.o 

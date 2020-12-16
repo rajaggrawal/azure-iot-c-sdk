@@ -1,0 +1,3 @@
+/home/raj/GITBranches/AzureDecTag/azure-iot-sdk-c/barco_custom_hsm/cmake/CMakeFiles/rebuild_cache.dir
+/home/raj/GITBranches/AzureDecTag/azure-iot-sdk-c/barco_custom_hsm/cmake/CMakeFiles/customhsmx509.dir
+/home/raj/GITBranches/AzureDecTag/azure-iot-sdk-c/barco_custom_hsm/cmake/CMakeFiles/edit_cache.dir
